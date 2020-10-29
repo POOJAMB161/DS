@@ -3,7 +3,7 @@
 # Class : SYIT 
 class Stack():
     def __init__(self):
-        self.items = ['4','3','2','1','bhavya']
+        self.items = ['4','3','2','1','pooja']
 
     def end(self, item):
         self.items.append(item)
