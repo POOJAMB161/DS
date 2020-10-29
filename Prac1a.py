@@ -1,7 +1,7 @@
 from array import *
 class Stack():
     def _init_(self):
-        self.items = array('i',[4,3,2,4072])
+        self.items = array('i',[4,3,2,1])
 
     def end(self, item):
         self.items.append(item)
